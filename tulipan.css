@@ -24,6 +24,12 @@ p {
     background-color: lightgreen;
     margin: 0 auto
 }
+
 p{
     color: #000FFF;
+}
+
+.fontos{
+    color:greenyellow;
+    font-weight: bold;
 }
