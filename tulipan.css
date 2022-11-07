@@ -1,35 +1,25 @@
 p {
-    color: red
+    color: black
 }
 
-.kiemelt {
-    color: aqua;
-    background-color: darkcyan;
-}
+
+
 #cím{
-    background-color: aquamarine;
-}
-.kiemelt{
-    height: 110px;
-    background-color: aqua;
-    border-color: aquamarine;
-    border-top-width: 5px;
-    border-style: dashed;
-    text-align: justify;
-    padding-left: 30px;
-    padding-bottom: 60px;
-}
-.kicsidoboz{
-    width: 500px;
-    background-color: lightgreen;
-    margin: 0 auto
-}
-
-p{
-    color: #000FFF;
+    text-align: bold;
 }
 
 .fontos{
     color:greenyellow;
     font-weight: bold;
+}
+ 
+.kozep{
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+}
+
+.hatter{
+    background-color: red;
 }
