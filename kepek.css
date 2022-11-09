@@ -6,4 +6,5 @@ img{
 	width: 15em; 
 	background-color: white;
 	min-width: 300px;
+	float:right;
 }
