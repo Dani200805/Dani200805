@@ -8,3 +8,16 @@ img{
 	min-width: 300px;
 	float:right;
 }
+
+.kepek{
+	float: right;
+	padding: 2%;
+}
+
+.kepek1{
+	float: inline-start;
+}
+
+.kepek2{
+	float:left;
+}
