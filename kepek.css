@@ -15,5 +15,10 @@ img{
 }
 
 .kepek2{
-	float:left;
+	float:right;
+}
+
+a{
+	text-decoration: none;
+	color: red;
 }
