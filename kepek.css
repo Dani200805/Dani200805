@@ -1,21 +1,17 @@
 img{
-    border: 2px solid #FFEBD0;
+    border: 2px solid #FF0000;
 	border-radius: 5px;
 	padding: 5px;
-	margin: 5px 15px;
+	margin: px 2px;
 	width: 15em; 
 	background-color: white;
-	min-width: 300px;
+	min-width: 333px;
 	float:right;
 }
 
-.kepek{
-	float: right;
-	padding: 2%;
-}
-
 .kepek1{
-	float: inline-start;
+	float: inline-end;
+	width: auto;
 }
 
 .kepek2{
